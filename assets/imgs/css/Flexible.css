@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    padding: 20px;
+    background-color: navajowhite;
+    border-radius: 20px;
+}
+
+
+img{
+    width: 456px
+}
+
+
+#spazio{
+    padding-left: 20px;
+}
+
+
+
+@media screen and (max-width:320px) {
+    .container{
+        flex-direction: column-reverse;
+    }
+   img{
+     width: 226px;
+     margin-left: 20px;
+   }    
+}

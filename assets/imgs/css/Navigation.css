@@ -1,0 +1,38 @@
+.navigazione{
+    background-color: oldlace;
+    border-radius: 20px;
+}
+
+nav{
+    display: flex;
+    align-items: baseline;
+    margin-left: 495px;
+}
+
+p{
+    margin: 19px;
+    background-color: navajowhite;
+    border-radius: 49px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+
+h3{
+    padding: 9px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    
+}
+
+#ape{
+    width: 46px;
+    align-self: center;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+
+.unione{
+    background-color: navajowhite;
+}

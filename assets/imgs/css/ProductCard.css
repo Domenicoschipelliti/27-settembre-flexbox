@@ -1,0 +1,50 @@
+.contenitore{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+
+img{
+    display: flex;
+    width: 24.3em;
+    border-top-left-radius: 35%;
+    border-top-right-radius: 35%;
+}
+
+
+#testo{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom-left-radius: 35%;
+    border-bottom-right-radius: 35%;
+}
+
+
+ .miele{
+    margin-bottom: 0px;
+    margin-right: 46px;
+}
+
+.popolo{
+    margin-top: 0px;
+    margin-right: 46px;
+}
+
+
+button{
+    border-radius: 20px;
+    width: 109px;
+    height: 28px;
+    background-color: yellow;
+}
+
+#prezzo{
+    display: flex;
+    align-self: end;
+    margin-top: -43px;
+    margin-right:  82px;
+}
